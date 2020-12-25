@@ -1,0 +1,44 @@
+
+
+body {
+  background-color: #fbefcc;
+}
+
+
+h1 {
+  color: #bd5734;
+  text-align: center;
+  font-family: 'Shadows Into Light Two', cursive;
+  font-size: 30px;
+}
+
+
+h2 {
+  background-color: #E9967A;
+  border-style: solid;
+  color: #FFFFFF;
+  text-align: center;
+  font-family: 'Shadows Into Light Two', cursive;
+  font-size: 40px;
+}
+
+
+
+li {
+  color: #bd5734;
+  text-align: left;
+  font-family: 'Shadows Into Light Two', cursive;
+  font-size: 30px;
+}
+
+
+a:link, a:visited {
+
+	background-color: #F08080;
+	colour: #FFFFFF;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block
+	border-radius: 25px;
+	padding: 15px 
+}
